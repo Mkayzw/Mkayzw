@@ -58,7 +58,7 @@
 ---  
 
 ### 📚 Learning & Goals
-- 🔥 **Mastering Data Structures & Algorithms in 3 weeks**
+- 🔥 **Mastering Data Structures & Algorithms **
 - 🎯 **Exploring DevOps, Cybersecurity, and Data Science**
 - 📖 **Studying Agile development & best software engineering practices**
 
