@@ -1,12 +1,81 @@
-- 👋 Hi, I’m @Mkayzw
-- 👀 I’m interested in coding,cybersec,datascience
--  I’m currently doings my software engineering degree (Java,Python,ReactJs,Html,Css)
-- I’m looking to collaborate on DevOps projects{webdesign,software development,deployment and maintenance}
-  - How to reach me https://www.instagram.com/i_am_mkay_zw?igsh=MzNlNGNkZWQ4Mg==
-- 😄 Pronouns: Him
-- ⚡ Fun fact: im a 1st year student with no coding background
-Im willing to put in the work to be a great dev..
-<!---
-Mkayzw/Mkayzw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hey there! I'm Engineer Calvin  
+
+🚀 **Full-Stack Developer | Software Engineering Student**  
+💡 Passionate about building scalable web and mobile applications  
+🎯 Currently focused on **React Native, FastAPI, and Backend Optimization**  
+
+---  
+
+### 🛠️ Tech Stack & Tools
+
+#### **Languages & Frameworks**
+- **Frontend:** React.js, React Native, Next.js, Tailwind CSS
+- **Backend:** FastAPI, Express.js
+- **Languages:** JavaScript (ES6+), TypeScript, Python
+- **Databases:** PostgreSQL, Firebase
+- **API Documentation:** Swagger 
+
+#### **Tools & Platforms**
+- **Version Control:** Git, GitHub
+- **DevOps & Deployment:** Docker, Vercel
+- **Caching:** Redis
+- **Other:** Jest (Testing), Pytest, Postman  
+
+---  
+
+### 🚀 Current Projects
+- 💼 **[Serviify](#)** – Flutter app for booking services (Backend Development with FastAPI)
+- 📱 **[Anime Listing App](#)** – Built with React Native & FastAPI
+- 🏫 **[Multi-Role School Management App](#)** – Admin, Teacher & Parent Dashboards
+
+---  
+
+### 💡 Project Ideas & Future Plans
+
+#### **Short-Term Projects**
+- 🔥 **Anime Scraping**  
+  - API Development  
+  - Telegram Bot (!^)
+  - Quality Options 
+- 📚 **LMS / E-learning**  
+  - Rita Africa Research  
+  - Email & Notification System  
+- 🛒 **E-commerce**  
+  - Marketplace System  
+  - Payment Portal (?)  
+- 🎉 **Facebook Events Reborn (!!)**  
+  - Outside Activities, Events, Food & Activities  
+- 🏅 **Sports Hub**  
+
+#### **Long-Term Projects**
+- 🚚 **Delivery System (^)**  
+  - Map Data & Routing  
+  - Device Tracking  
+- 🎶 **Rhythm Game**  
+- 🎮 **Chip 8 Emulator**  
+
+
+---  
+
+### 📚 Learning & Goals
+- 🔥 **Mastering Data Structures & Algorithms in 3 weeks**
+- 🎯 **Exploring DevOps, Cybersecurity, and Data Science**
+- 📖 **Studying Agile development & best software engineering practices**
+
+---  
+
+### 🎮 Fun Facts
+- 🚀 **Dune Enthusiast** – Paul Atreides supremacy 🤴
+- 🎮 **Gamer** – FPS, RPGs, and strategy games
+- 🌍 **Zimbabwean Dev** – Navigating the challenges of tech in Zim 🇿🇼
+
+---  
+
+### 📬 Let's Connect!
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)
+- 🐦 **Twitter:** [twitter.com/yourhandle](#)
+- 📧 **Email:** [your.email@example.com](#)
+
+---  
+
+⚡ _"Code, conquer, and repeat."_ 🚀
