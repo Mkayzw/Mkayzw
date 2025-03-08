@@ -71,10 +71,6 @@
 
 ---  
 
-### 📬 Let's Connect!
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- 🐦 **Twitter:** [twitter.com/yourhandle](#)
-- 📧 **Email:** [your.email@example.com](#)
 
 ---  
 
