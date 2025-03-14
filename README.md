@@ -28,32 +28,6 @@
 - 📱 **[Anime Listing App](#)** – Built with React Native & FastAPI
 - 🏫 **[Multi-Role School Management App](#)** – Admin, Teacher & Parent Dashboards
 
----  
-
-### 💡 Project Ideas & Future Plans
-
-#### **Short-Term Projects**
-- 🔥 **Anime Scraping**  
-  - API Development  
-  - Telegram Bot (!^)
-  - Quality Options 
-- 📚 **LMS / E-learning**  
-  - Rita Africa Research  
-  - Email & Notification System  
-- 🛒 **E-commerce**  
-  - Marketplace System  
-  - Payment Portal (?)  
-- 🎉 **Facebook Events Reborn (!!)**  
-  - Outside Activities, Events, Food & Activities  
-- 🏅 **Sports Hub**  
-
-#### **Long-Term Projects**
-- 🚚 **Delivery System (^)**  
-  - Map Data & Routing  
-  - Device Tracking  
-- 🎶 **Rhythm Game**  
-- 🎮 **Chip 8 Emulator**  
-
 
 ---  
 
