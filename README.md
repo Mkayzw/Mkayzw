@@ -24,7 +24,7 @@
 ---  
 
 ### 🚀 Current Projects
-- 💼 **[Serviify](#)** – Flutter app for booking services (Backend Development with FastAPI)
+- 💼 **[Serviify](serviify.co.zw)** – Flutter app for booking services (Backend Development with FastAPI)
 - 📱 **[Anime Listing App](#)** – Built with React Native & FastAPI
 - 🏫 **[Multi-Role School Management App](#)** – Admin, Teacher & Parent Dashboards
 
