@@ -25,7 +25,7 @@
 
 ### 🚀 Current Projects
 - 💼 **[Serviify](serviify.co.zw)** – Flutter app for booking services (Backend Development with FastAPI)
-- 📱 **[Anime Listing App](#)** – Built with React Native & FastAPI
+- 📱 **[Anime Listing App](https://anime-verse-psi.vercel.app)** – Built with React Native & FastAPI
 - 🏫 **[Multi-Role School Management App](#)** – Admin, Teacher & Parent Dashboards
 
 
