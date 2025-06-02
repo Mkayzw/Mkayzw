@@ -1,5 +1,11 @@
 ### 👋 Hey there! I'm  Calvin  
+
+
 <!--START_SECTION:waka-->
+💻 Most Used:
+TypeScript  12 hrs 3 mins ███████████░
+Python      7 hrs 50 mins ██████░░░
+...
 <!--END_SECTION:waka-->
 
 🚀 **Full-Stack Developer | Software Engineering Student**  
