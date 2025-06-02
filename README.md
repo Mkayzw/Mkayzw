@@ -33,8 +33,6 @@ JavaScript        6 mins          ▒░░░░░░░░░░░░░░�
 
 ---
 
----
-
 ## 🧠 Currently Building
 
 - 🧠 **MindNest** – Mental health journaling app
