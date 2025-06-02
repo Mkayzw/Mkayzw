@@ -33,7 +33,6 @@ JavaScript        6 mins          ▒░░░░░░░░░░░░░░�
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
-[Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
