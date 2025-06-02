@@ -27,8 +27,8 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngineerCalvin&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EngineerCalvin&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkayzw&show_icons=true&theme=radical&hide_title=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mkayzwtheme=radical&hide_border=false" width="48%" />
 </p>
 
 ---
@@ -45,6 +45,5 @@
 
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/-EngineerCalvin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/-@EngineerCalvin-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-EngineerCalvin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Codewizardry23)
 
