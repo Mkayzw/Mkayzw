@@ -37,7 +37,7 @@ JavaScript        6 mins          ▒░░░░░░░░░░░░░░�
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mkayzw&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mkayzwtheme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mkayz&wtheme=radical&hide_border=false" width="48%" />
 </p>
 
 ---
