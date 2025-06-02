@@ -1,62 +1,50 @@
-### 👋 Hey there! I'm  Calvin  
+<h1 align="center">Hey 👋, I'm Engineer Calvin</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Code+is+life.;FastAPI+Jutsu+User;React+Ninja+in+Training;🔥+Engineer+on+a+Mission" />
+</p>
+
+---
+
+## 💻 What I’ve Been Coding Recently
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript        3 hrs 52 mins   █████████████████████▓░░░   86.99 %
-Dart              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Python            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-JavaScript        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Markdown          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-```
-
 <!--END_SECTION:waka-->
 
-🚀 **Full-Stack Developer | Software Engineering Student**  
-💡 Passionate about building scalable web and mobile applications  
-🎯 Currently focused on **React Native, FastAPI, and Backend Optimization**  
+---
 
----  
+## ⚡ Tech Stack
 
-### 🛠️ Tech Stack & Tools
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
-#### **Languages & Frameworks**
-- **Frontend:** React.js, React Native, Next.js, Tailwind CSS
-- **Backend:** FastAPI, Express.js
-- **Languages:** JavaScript (ES6+), TypeScript, Python
-- **Databases:** PostgreSQL, Firebase
-- **API Documentation:** Swagger 
+---
 
-#### **Tools & Platforms**
-- **Version Control:** Git, GitHub
-- **DevOps & Deployment:** Docker, Vercel
-- **Caching:** Redis
-- **Other:** Jest (Testing), Pytest, Postman  
+## 🔥 GitHub Stats
 
----  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EngineerCalvin&show_icons=true&theme=radical&hide_title=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EngineerCalvin&theme=radical&hide_border=false" width="48%" />
+</p>
 
-### 🚀 Current Projects
-- 💼 **[Serviify](serviify.co.zw)** – Flutter app for booking services (Backend Development with FastAPI)
-- 📱 **[Anime Listing App](https://anime-verse-psi.vercel.app)** – Built with React Native & FastAPI
+---
 
+## 🧠 Currently Building
 
----  
-### 📚 Learning & Goals
-- 🔥 **Mastering Data Structures & Algorithms **
-- 🎯 **Exploring DevOps, Cybersecurity, and Data Science**
-- 📖 **Studying Agile development & best software engineering practices**
+- 🧠 **MindNest** – Mental health journaling app
+- 🧹 **Serviify** – Find & book services locally
+- 🧑‍💻 **AlgoHustle** – Daily DSA with real-time leaderboard
+- 💸 **XfinityPros App** – Financial tracking for Zimbabwe
+  
 
----  
+---
 
-### 🎮 Fun Facts
-- 🚀 **Dune Enthusiast** – Paul Atreides supremacy 🤴
-- 🎮 **Gamer** – FPS, RPGs, and strategy games
-- 🌍 **Zimbabwean Dev** – Navigating the challenges of tech in Zim 🇿🇼
+## 📫 How to reach me:
 
----  
+[![LinkedIn](https://img.shields.io/badge/-EngineerCalvin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/-@EngineerCalvin-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
 
-
----  
-
-⚡ _"Code, conquer, and repeat."_ 🚀
