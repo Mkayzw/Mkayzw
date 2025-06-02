@@ -1,4 +1,6 @@
-### 👋 Hey there! I'm Engineer Calvin  
+### 👋 Hey there! I'm  Calvin  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 🚀 **Full-Stack Developer | Software Engineering Student**  
 💡 Passionate about building scalable web and mobile applications  
@@ -26,11 +28,9 @@
 ### 🚀 Current Projects
 - 💼 **[Serviify](serviify.co.zw)** – Flutter app for booking services (Backend Development with FastAPI)
 - 📱 **[Anime Listing App](https://anime-verse-psi.vercel.app)** – Built with React Native & FastAPI
-- 🏫 **[Multi-Role School Management App](#)** – Admin, Teacher & Parent Dashboards
 
 
 ---  
-
 ### 📚 Learning & Goals
 - 🔥 **Mastering Data Structures & Algorithms **
 - 🎯 **Exploring DevOps, Cybersecurity, and Data Science**
