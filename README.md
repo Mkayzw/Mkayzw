@@ -15,15 +15,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 246 Contributions in the Year 2025
+> 🏆 244 Contributions in the Year 2025
  > 
 > 📦 91.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 16 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
