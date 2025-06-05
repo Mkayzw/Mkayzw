@@ -15,8 +15,6 @@
 
 **🐱 My Github Data** 
 
-> 🏆 248 Contributions in the Year 2025
- > 
 > 📦 91.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -89,7 +87,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2025
+ Last Updated on 05/06/2025
 <!--END_SECTION:waka-->
 
 ---
