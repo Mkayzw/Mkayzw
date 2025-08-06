@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Engineer Calvin</h1>
+<h1 align="center">Hey 👋, I'm Calvin</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Code+is+life.;FastAPI+Jutsu+User;React+Ninja+in+Training;🔥+Engineer+on+a+Mission" />
@@ -49,8 +49,7 @@ Other        4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 - 🧠 **MindNest** – Mental health journaling app
 - 🧹 **Serviify** – Find & book services locally
-- 🧑‍💻 **AlgoHustle** – Daily DSA with real-time leaderboard
-- 💸 **XfinityPros App** – Financial tracking for Zimbabwe
+- Unistay – An attempt to provide authentic off campus accomodation system
   
 
 ---
