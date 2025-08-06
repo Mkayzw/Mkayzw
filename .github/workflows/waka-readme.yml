@@ -15,10 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
          
-
-          ### Meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: Calbere/Calbere
 
           ### Content Config
           SHOW_TITLE: true
