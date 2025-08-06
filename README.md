@@ -45,11 +45,11 @@ Other        4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ---
 
-## 🧠 Currently Building
+## Currently Building
 
-- 🧠 **MindNest** – Mental health journaling app
-- 🧹 **Serviify** – Find & book services locally
-- Unistay – An attempt to provide authentic off campus accomodation system
+-  **MindNest** – Mental health journaling app
+-  **Serviify** – Find & book services locally
+- **Unistay** – An attempt to provide authentic off campus accomodation system
   
 
 ---
