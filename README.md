@@ -47,7 +47,7 @@ SQL          5 mins                ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## Currently Building
 
--  **MindNest** – Mental health journaling app
+-  **Outly** – Restaraunt discovery app
 -  **Serviify** – Find & book services locally
 - **Unistay** – An attempt to provide authentic off campus accomodation system
   
